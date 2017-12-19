@@ -26,8 +26,7 @@ try {
 
     //Recipients
     $mail->setFrom('no-reply@innovacorani.com', 'Contacto');
-    // $mail->addAddress('glapa@bearcreekmining.com', 'Gustavo Lapa');
-     $mail->addAddress('neysitcs@gmail.com', 'Gustavo Lapa');
+    $mail->addAddress('glapa@bearcreekmining.com', 'Gustavo Lapa');
     $mail->addReplyTo($from_email, $from_name);
 
     //Content
