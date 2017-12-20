@@ -39,8 +39,8 @@
 			<section id="first" class="main">
 				<header>
 					<div class="container">
-						<span>Gravida dis placerat lectus ante vel nunc euismod eget ornare varius gravida euismod lorem ipsum dolor sit amet consequat<br />
-						feugiat. Gravida dis placerat lectus ante vel nunc euismod eget ornare varius gravida euismod lorem ipsum dolor sit amet.</span>
+						<span> El II Festival de Tecnología en Camelidos Sudamerica es un evento organizado por la Comunidad de Chacaconiza ubicado en el distrito de Corani, provincia de Carabaya, departamento de Puno.
+							 <i>Alpatextiles Chacaconiza</i> y el <i>Centro de Innovación Tecnológica Chacaconiza</i> tiene el agrado de invitarlos a conocer, aprender, disfrutar del evento tecnológico más grande en camélidos sudamericanos.</span>
 					</div>
 				</header>
 				<div class="content dark style1 featured">
@@ -136,7 +136,7 @@
 				<header>
 					<div class="container">
 
-						<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/zIwLWfaAg-8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+						<div class="videoWrapper"><iframe width="560" height="315" src="https://youtu.be/kSLbUDHEm5I" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
 					</div>
 				</header>
 
