@@ -136,7 +136,7 @@
 				<header>
 					<div class="container">
 
-						<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=kSLbUDHEm5I&t=3s" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+						<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/kSLbUDHEm5I" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
 					</div>
 				</header>
 
