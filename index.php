@@ -98,9 +98,9 @@
 
 					<div class="container">
 					  <section class="customer-logos slider">
-					    <div class="slide"><img src="img/logos/logo1.jpg"></div>
-					    <div class="slide"><img src="img/logos/logo2.jpg"></div>
-					    <div class="slide"><img src="img/logos/logo3.jpg"></div>
+					    <div class="slide"><img src="img/logos/logo1.png"></div>
+					    <div class="slide"><img src="img/logos/logo2.png"></div>
+					    <div class="slide"><img src="img/logos/logo3.png"></div>
 					    <div class="slide"><img src="img/logos/logo4.jpg"></div>
 					    <div class="slide"><img src="img/logos/logo5.jpg"></div>
 					    <div class="slide"><img src="img/logos/logo6.jpg"></div>
