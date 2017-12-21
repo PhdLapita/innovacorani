@@ -50,7 +50,7 @@
 								<section>
 									<span class="feature-icon"><img class="icon" src="img/persona11.jpg"/></span>
 									<header>
-										<h3>Alfonso Pilco</h3>
+										<h3>Remigio Mamani León</h3>
 									</header>
 									<p>Gravida dis placerat lectus ante vel nunc euismod est turpis sodales.
 									Diam tempor dui lacinia accumsan vivamus. Gravida dis placerat lectus
