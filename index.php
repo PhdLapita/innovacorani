@@ -48,7 +48,7 @@
 						<div class="row">
 							<div class="4u 12u(narrow)">
 								<section>
-									<span class="feature-icon"><img class="icon" src="img/persona1.jpg"/></span>
+									<span class="feature-icon"><img class="icon" src="img/persona1.JPG"/></span>
 									<header>
 										<h3>Alfonso Pilco</h3>
 									</header>
@@ -60,7 +60,7 @@
 							</div>
 							<div class="4u 12u(narrow)">
 								<section>
-								<span class="feature-icon"><img class="icon" src="img/persona2.jpg"/></span>
+								<span class="feature-icon"><img class="icon" src="img/persona2.JPG"/></span>
 									<header>
 										<h3>Vivamus</h3>
 									</header>
