@@ -117,8 +117,8 @@
 
 							<div class="12u 12u(narrow)">
 								<div class="row">
-									<div class="4u"><a href="#" class="image fit"><img src="img/middle/1.jpg" alt="" /></a></div>
-									<div class="4u"><a href="#" class="image fit"><img src="img/middle/2.jpg" alt="" /></a></div>
+									<div class="4u"><a href="#" class="image fit"><img src="img/middle/11.jpg" alt="" /></a></div>
+									<div class="4u"><a href="#" class="image fit"><img src="img/middle/22.jpg" alt="" /></a></div>
 									<div class="4u"><a href="#" class="image fit"><img src="img/middle/3.jpg" alt="" /></a></div>
 
 									<div class="4u"><a href="#" class="image fit"><img src="img/middle/4.jpg" alt="" /></a></div>
