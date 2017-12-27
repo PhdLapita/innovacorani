@@ -39,8 +39,16 @@
 			<section id="first" class="main">
 				<header>
 					<div class="container">
+<<<<<<< HEAD
 						<span> El II Festival de Tecnología en Camelidos Sudamerica es un evento organizado por la Comunidad de Chacaconiza ubicado en el distrito de Corani, provincia de Carabaya, departamento de Puno.
 							 <i>Alpatextiles Chacaconiza</i> y el <i>Centro de Innovación Tecnológica Chacaconiza</i> tiene el agrado de invitarlos a conocer, aprender, disfrutar del evento tecnológico más grande en camélidos sudamericanos.</span>
+=======
+						<div class="img-overflow">
+						<img class="image left" src="img/logo-home.png">
+						<span>Gravida dis placerat lectus ante vel nunc euismod eget ornare varius gravida euismod lorem ipsum dolor sit amet consequat<br />
+						feugiat. Gravida dis placerat lectus ante vel nunc euismod eget ornare varius gravida euismod lorem ipsum dolor sit amet.</span>
+>>>>>>> 90eb8a54a8e23dfac3cfb037f3e61d385569fdfd
+					</div>
 					</div>
 				</header>
 				<div class="content dark style1 featured">
@@ -52,6 +60,7 @@
 									<header>
 										<h3>Remigio Mamani León</h3>
 									</header>
+									<h4><strong>Gerente de área</strong></h4>
 									<p>Gravida dis placerat lectus ante vel nunc euismod est turpis sodales.
 									Diam tempor dui lacinia accumsan vivamus. Gravida dis placerat lectus
 									ante vel nunc euismod est turpis sodales. Diam tempor dui lacinia
@@ -64,6 +73,7 @@
 									<header>
 										<h3>Vivamus</h3>
 									</header>
+									<h4><strong>Supervisor de campo</strong></h4>
 									<p>Gravida dis placerat lectus ante vel nunc euismod est turpis sodales.
 									Diam tempor dui lacinia accumsan vivamus. Gravida dis placerat lectus
 									ante vel nunc euismod est turpis sodales. Diam tempor dui lacinia
@@ -74,8 +84,9 @@
 								<section>
 									<span class="feature-icon"><img class="icon" src="img/persona3.jpg"/></span>
 									<header>
-										<h3>Accumsan</h3>
+										<h3>Bill Gates</h3>
 									</header>
+									<h4><strong>Finanzas</strong></h4>
 									<p>Gravida dis placerat lectus ante vel nunc euismod est turpis sodales.
 									Diam tempor dui lacinia accumsan vivamus. Gravida dis placerat lectus
 									ante vel nunc euismod est turpis sodales. Diam tempor dui lacinia
@@ -92,7 +103,7 @@
 			<section id="second" class="main">
 				<header>
 					<div class="container">
-						<h2>Organizado por</h2>
+						<h2>Organizado por:</h2>
 						<p>
 
 
@@ -104,8 +115,20 @@
 					    <div class="slide"><img src="img/logos/logo4.jpg"></div>
 					    <div class="slide"><img src="img/logos/logo5.jpg"></div>
 					    <div class="slide"><img src="img/logos/logo6.jpg"></div>
-
 					  </section>
+						<br/>
+						<h2>Con el apyo de:</h2>
+						<br/>
+
+						<section class="customer-logos slider">
+						 <div class="slide"><img src="img/logos/logo1.jpg"></div>
+						 <div class="slide"><img src="img/logos/logo2.jpg"></div>
+						 <div class="slide"><img src="img/logos/logo3.jpg"></div>
+						 <div class="slide"><img src="img/logos/logo4.jpg"></div>
+						 <div class="slide"><img src="img/logos/logo5.jpg"></div>
+						 <div class="slide"><img src="img/logos/logo6.jpg"></div>
+					 </section>
+
 					</div>
 
 						</p>
@@ -117,12 +140,34 @@
 
 							<div class="12u 12u(narrow)">
 								<div class="row">
+<<<<<<< HEAD
 									<div class="4u"><a href="#" class="image fit"><img src="img/middle/11.jpg" alt="" /></a></div>
 									<div class="4u"><a href="#" class="image fit"><img src="img/middle/22.jpg" alt="" /></a></div>
 									<div class="4u"><a href="#" class="image fit"><img src="img/middle/33.jpg" alt="" /></a></div>
 									<div class="4u"><a href="#" class="image fit"><img src="img/middle/44.jpg" alt="" /></a></div>
 									<div class="4u"><a href="#" class="image fit"><img src="img/middle/5.jpg" alt="" /></a></div>
 									<div class="4u"><a href="#" class="image fit"><img src="img/middle/6.jpg" alt="" /></a></div>
+=======
+									<div class="img-block"><span class="image fit">
+										<span class="text-img"><h4>Prueba Texto</h4></span>
+										<img src="img/middle/1.jpg" alt="" /></span></div>
+									<div class="img-block"><span class="image fit">
+										<span class="text-img"><h4>Prueba Texto 3</h4></span>
+										<img src="img/middle/2.jpg" alt="" /></span></div>
+									<div class="img-block"><span class="image fit">
+										<span class="text-img"><h4>Prueba Texto 3</h4></span>
+										<img src="img/middle/3.jpg" alt="" /></span></div>
+
+									<div class="img-block"><span class="image fit">
+										<span class="text-img"><h4>Prueba Texto 4</h4></span>
+										<img src="img/middle/4.jpg" alt="" /></span></div>
+									<div class="img-block"><span class="image fit">
+										<span class="text-img"><h4>Prueba Texto 5</h4></span>
+										<img src="img/middle/5.jpg" alt="" /></span></div>
+									<div class="img-block"><span class="image fit">
+										<span class="text-img"><h4>Prueba Texto 6</h4></span>
+										<img src="img/middle/6.jpg" alt="" /></span></div>
+>>>>>>> 90eb8a54a8e23dfac3cfb037f3e61d385569fdfd
 								</div>
 							</div>
 						</div>
@@ -134,8 +179,15 @@
 			<section id="third" class="main">
 				<header>
 					<div class="container">
+<<<<<<< HEAD
 
 						<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/kSLbUDHEm5I" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+=======
+							<h2>Video informativo</h2>
+							<br/>
+							<br/>
+						<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/zIwLWfaAg-8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+>>>>>>> 90eb8a54a8e23dfac3cfb037f3e61d385569fdfd
 					</div>
 				</header>
 

@@ -14,7 +14,8 @@ $(document).ready(function(){
         { src: "/img/slider/4.jpg" },
         { src: "/img/slider/5.jpg" }
     ],
-     overlay: '/assets/vegas/overlays/07.png'
+     overlay: false,
+     cover: true,
 });
 
 });

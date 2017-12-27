@@ -1523,11 +1523,51 @@
 		.image.fit {
 			display: block;
 			width: 100%;
+			position: relative;
+			text-align: center;
 		}
+
+		.image.fit .text-img{
+			position: absolute;
+margin: auto;
+text-align: center;
+font-weight: 500;
+color: white;
+top: 0px;
+left: 0px;
+right: 0px;
+font-size: 24px;
+padding-bottom: 5px;
+height: 100%;
+background: rgba(0, 0, 0, 0.27);
+		}
+
+		.image.fit:hover >.text-img {
+			background: none !important;
+		}
+.image.fit  img{
+	border-radius: 0px !important;
+}
+				.image.fit .text-img h4{
+					margin-top: 30%;
+					border-bottom: 2px solid white;
+					display: inline-block;
+					    font-weight: 500;
+							text-transform: uppercase;
+				}
 
 		.image.left {
 			float: left;
 			margin: 0 2em 2em 0;
+		}
+
+		.img-overflow{
+			overflow: hidden;
+		}
+
+		.img-overflow img{
+			width: 300px;
+			height: auto;
 		}
 
 		.image.centered {
@@ -2359,4 +2399,33 @@ color: white;
 text-align: center;
 font-size: 26px;
 display: none;
+}
+
+
+
+.img-block{
+	width: 33.33%;
+}
+
+
+@media only screen and (max-width: 768px) {
+	.img-block{
+		width: 50%;
+	}
+}
+
+
+@media only screen and (max-width: 480px) {
+	.img-block{
+		width: 100%;
+	}
+
+	.img-overflow img{
+		width: 200px;
+		height: auto;
+		display: block !important;
+		margin: auto !important;
+		float: none !important;
+		padding-bottom: 20px;
+	}
 }
