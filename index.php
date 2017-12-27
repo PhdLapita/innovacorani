@@ -129,11 +129,11 @@
 						</p>
 					</div>
 				</header>
-				<div class="content dark style2">
-					<div class="container">
+				<div class="content-full dark style2">
+					<div class="container-full">
 						<div class="row">
 
-							<div class="12u 12u(narrow)">
+							<div class="med">
 								<div class="row">
 
 									<div class="img-block"><span class="image fit">
