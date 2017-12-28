@@ -151,10 +151,10 @@
 										<img src="img/middle/44.jpg" alt="" /></span></div>
 									<div class="img-block"><span class="image fit">
 										<span class="text-img"><h4>Proyectos tecnológicos</h4></span>
-										<img src="img/middle/55.jpg" alt="" /></span></div>
+										<img src="img/middle/5.jpg" alt="" /></span></div>
 									<div class="img-block"><span class="image fit">
 										<span class="text-img"><h4>Comidas típicas</h4></span>
-										<img src="img/middle/66.jpg" alt="" /></span></div>
+										<img src="img/middle/6.jpg" alt="" /></span></div>
 								</div>
 							</div>
 						</div>
