@@ -106,23 +106,14 @@
 					  <section class="customer-logos slider">
 					    <div class="slide"><img src="img/logos/logo1.png"></div>
 					    <div class="slide"><img src="img/logos/logo2.png"></div>
-					    <div class="slide"><img src="img/logos/logo3.png"></div>
-					    <div class="slide"><img src="img/logos/logo4.jpg"></div>
-					    <div class="slide"><img src="img/logos/logo5.jpg"></div>
-					    <div class="slide"><img src="img/logos/logo6.jpg"></div>
 					  </section>
 
 						<br/>
-						<h2>Con el apyo de:</h2>
+						<h2>Con el apoyo de:</h2>
 						<br/>
 
 						<section class="customer-logos slider">
 						 <div class="slide"><img src="img/logos/logo1.png"></div>
-						 <div class="slide"><img src="img/logos/logo2.png"></div>
-						 <div class="slide"><img src="img/logos/logo3.png"></div>
-						 <div class="slide"><img src="img/logos/logo4.jpg"></div>
-						 <div class="slide"><img src="img/logos/logo5.jpg"></div>
-						 <div class="slide"><img src="img/logos/logo6.jpg"></div>
 					 </section>
 
 
@@ -151,10 +142,10 @@
 										<img src="img/middle/44.jpg" alt="" /></span></div>
 									<div class="img-block"><span class="image fit">
 										<span class="text-img"><h4>Proyectos tecnológicos</h4></span>
-										<img src="img/middle/5.jpg" alt="" /></span></div>
+										<img src="img/middle/55.jpg" alt="" /></span></div>
 									<div class="img-block"><span class="image fit">
 										<span class="text-img"><h4>Comidas típicas</h4></span>
-										<img src="img/middle/6.jpg" alt="" /></span></div>
+										<img src="img/middle/66.jpg" alt="" /></span></div>
 								</div>
 							</div>
 						</div>
