@@ -31,7 +31,8 @@
 				<header>
 					<h1>II FESTIVAL DE TECNOLOGÍA EN CAMELIDOS SUDAMERICANOS</h1>
 					<p>Chacaconiza - Corani - Carabaya - Puno</p>
-					<p>Del 26 al 30 de Enero 2018</p>
+					<p>Del 26 al 30 de Enero</p>
+					<p>2018</p>
 				</header>
 
 			</section>
