@@ -8,7 +8,6 @@ $(document).ready(function(){
 
   $("#example, #header").vegas({
     slides: [
-        { src: "/img/slider/6.png" },
         { src: "/img/slider/1.jpg" },
         { src: "/img/slider/2.jpg" },
         { src: "/img/slider/3.jpg" },
