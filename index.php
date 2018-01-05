@@ -131,7 +131,7 @@ La directiva comunal, Alpatextiles Chacaconiza y el Centro de Innovación Tecnol
 								<div class="row">
 
 									<div class="img-block"><span class="image fit">
-										<span class="text-img"><h4>Concursos</h4></span>
+										<span class="text-img"><h4>Concurso de camélidos</h4></span>
 										<img src="img/middle/1.png" alt="" /></span></div>
 									<div class="img-block"><span class="image fit">
 										<span class="text-img"><h4>Conferencias</h4></span>
@@ -140,13 +140,13 @@ La directiva comunal, Alpatextiles Chacaconiza y el Centro de Innovación Tecnol
 										<span class="text-img"><h4>Hilado artesanal</h4></span>
 										<img src="img/middle/3.png" alt="" /></span></div>
 									<div class="img-block"><span class="image fit">
-										<span class="text-img"><h4>Desfile de ropa</h4></span>
+										<span class="text-img"><h4>Desfile textil</h4></span>
 										<img src="img/middle/4.png" alt="" /></span></div>
 									<div class="img-block"><span class="image fit">
-										<span class="text-img"><h4>Proyectos tecnológicos</h4></span>
+										<span class="text-img"><h4>Exposición de proyectos</h4></span>
 										<img src="img/middle/5.png" alt="" /></span></div>
 									<div class="img-block"><span class="image fit">
-										<span class="text-img"><h4>Comidas típicas</h4></span>
+										<span class="text-img"><h4>Feria gastronómica</h4></span>
 										<img src="img/middle/6.png" alt="" /></span></div>
 								</div>
 							</div>
