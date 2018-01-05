@@ -42,8 +42,9 @@
 
 						<div class="img-overflow">
 						<img class="image left" src="img/logo-home.png">
-						<span>El II Festival de Tecnología en Camelidos Sudamerica es un evento organizado por la Comunidad de Chacaconiza ubicado en el distrito de Corani, provincia de Carabaya, departamento de Puno.<br />
-						 <i>Alpatextiles Chacaconiza</i> y el <i>Centro de Innovación Tecnológica Chacaconiza</i> tiene el agrado de invitarlos a conocer, aprender, disfrutar del evento tecnológico más grande en camélidos sudamericanos.</span>
+						<span>El II Festival de Tecnología en Camélidos Sudamericanos, es un evento organizado por la Comunidad Campesina de Chacaconiza ubicado en el distrito de Corani, provincia de Carabaya, región Puno.
+La directiva comunal, Alpatextiles Chacaconiza y el Centro de Innovación Tecnológica Chacaconiza, tienen el agrado de invitarlos a ser partícipes de una gran exposición de Camélidos Sudamericanos de elevada calidad
+ genética, y de productos artesanales a base de fibra de alpaca que es considerada en el mundo una de las fibras especiales, raras y lujosas.</span>
 					</div>
 					</div>
 				</header>
@@ -56,7 +57,7 @@
 									<header>
 										<h3>Remigio Mamani León</h3>
 									</header>
-									<h4><strong>Gerente de área</strong></h4>
+									<h4><strong>Alcalde de Corani</strong></h4>
 									<p>Gravida dis placerat lectus ante vel nunc euismod est turpis sodales.
 									Diam tempor dui lacinia accumsan vivamus. Gravida dis placerat lectus
 									ante vel nunc euismod est turpis sodales. Diam tempor dui lacinia
@@ -67,22 +68,21 @@
 								<section>
 								<span class="feature-icon"><img class="icon" src="img/persona2.jpg"/></span>
 									<header>
-										<h3>Vivamus</h3>
+										<h3>Alfonso Pilco</h3>
 									</header>
-									<h4><strong>Supervisor de campo</strong></h4>
-									<p>Gravida dis placerat lectus ante vel nunc euismod est turpis sodales.
-									Diam tempor dui lacinia accumsan vivamus. Gravida dis placerat lectus
-									ante vel nunc euismod est turpis sodales. Diam tempor dui lacinia
-									accumsan vivamus.</p>
+									<h4><strong>Presidente de la Feria</strong></h4>
+									<p>Queremos darles a conocer los avances que se están consiguiendo en el mejoramiento genético y crianza de llamas y alpacas,
+										 así como de los productos novedosos que se están logrando con la fibra de estos nobles animales, empleando tecnología moderna.
+										 Se trata de una fiesta muy hermosa en la que además se podrán disfrutar de la sabrosa comida y de otras manifestaciones de nuestra cultura.</p>
 								</section>
 							</div>
 							<div class="4u 12u(narrow)">
 								<section>
 									<span class="feature-icon"><img class="icon" src="img/persona3.jpg"/></span>
 									<header>
-										<h3>Bill Gates</h3>
+										<h3>Teodosio Lanudo</h3>
 									</header>
-									<h4><strong>Finanzas</strong></h4>
+									<h4><strong>Presidente de la comunidad Chacaconiza</strong></h4>
 									<p>Gravida dis placerat lectus ante vel nunc euismod est turpis sodales.
 									Diam tempor dui lacinia accumsan vivamus. Gravida dis placerat lectus
 									ante vel nunc euismod est turpis sodales. Diam tempor dui lacinia
@@ -136,7 +136,6 @@
 									<div class="img-block"><span class="image fit">
 										<span class="text-img"><h4>Hilado artesanal</h4></span>
 										<img src="img/middle/33.jpg" alt="" /></span></div>
-
 									<div class="img-block"><span class="image fit">
 										<span class="text-img"><h4>Desfile de ropa</h4></span>
 										<img src="img/middle/44.jpg" alt="" /></span></div>
